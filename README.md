@@ -1,5 +1,5 @@
 # nikon-lightning-sensing-shutter-remote
-This project is an implemenation of the following shutter remote: [http://fototipp.hu/light2]([http://fototipp.hu/light2)
+This project is an implemenation of the following shutter remote: [http://fototipp.hu/light2](http://fototipp.hu/light2)
 
 ## How to use:
 
@@ -7,4 +7,6 @@ There are two phases of using this shutter remote. The first one is the setting 
 
 Peolpe in the blog's comment section claimed it works fine. I need more tests to determine wether it works well or not. My indoor tests resulted that it needs quite a bigger impulse to trigger, but perhaps this was the aim.
 
-![]()
+![image 1](images/img (1).jpg)
+![image 3](images/img (3).jpg)
+![image 4](images/img (4).jpg)
